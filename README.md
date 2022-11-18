@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
 </p>    
-O Desafio proposto pela DevSuperior teve como objetivo implementar as funcionalidades necessárias para que os testes de integridade web do projeto já especificados passem, usando o princípio do TDD (Test Driven Development).
+Projeto com objetivo de implementar as funcionalidades necessárias para que os testes de integridade web do projeto já especificados passem, usando o princípio do TDD (Test Driven Development).
 
 
 <h2>Como criar e executar o Event-City local</h2>
